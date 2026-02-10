@@ -71,19 +71,32 @@
 
 ## Featured Projects
 
-> Building a **Personal Super-Agent System** — an interconnected fleet of multi-agent projects that covers the full lifecycle of information: Acquire &rarr; Process &rarr; Accumulate &rarr; Output.
+> Building a **Personal Super-Agent System** — an interconnected fleet of multi-agent projects covering the full lifecycle of information.
 
-<div align="center">
-
-![Acquire](https://img.shields.io/badge/Acquire_信息获取-Sailor-0078D4?style=for-the-badge)
-&nbsp;➜&nbsp;
-![Process](https://img.shields.io/badge/Process_信息处理-Maelstrom-7B2D8B?style=for-the-badge)
-&nbsp;➜&nbsp;
-![Accumulate](https://img.shields.io/badge/Accumulate_知识沉淀-Coming_Soon-444?style=for-the-badge)
-&nbsp;➜&nbsp;
-![Output](https://img.shields.io/badge/Output_内容输出-Coming_Soon-444?style=for-the-badge)
-
-</div>
+<table>
+<thead>
+<tr>
+<th align="center">Acquire / 信息获取</th>
+<th align="center">Process / 信息处理</th>
+<th align="center">Accumulate / 知识沉淀</th>
+<th align="center">Output / 内容输出</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>Sailor</strong><br/>水手</td>
+<td align="center"><strong>Maelstrom</strong><br/>大漩涡</td>
+<td align="center"><em>Coming Soon</em></td>
+<td align="center"><em>Coming Soon</em></td>
+</tr>
+<tr>
+<td align="center">RSS / Web<br/>Multi-source Aggregation</td>
+<td align="center">PDF / Docs<br/>Structure-aware Translation</td>
+<td align="center">Knowledge Base<br/>Long-term Memory & Retrieval</td>
+<td align="center">Blog / Social<br/>Publish & Distribution</td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tr>
