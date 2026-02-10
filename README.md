@@ -71,6 +71,20 @@
 
 ## Featured Projects
 
+> Building a **Personal Super-Agent System** — an interconnected fleet of multi-agent projects that covers the full lifecycle of information: Acquire &rarr; Process &rarr; Accumulate &rarr; Output.
+
+```
+  Sailor              Maelstrom             ???                 ???
+  水手                 大漩涡               Coming Soon         Coming Soon
+┌──────────┐     ┌──────────────┐     ┌──────────────┐    ┌──────────────┐
+│ Acquire  │ ──▶ │   Process    │ ──▶ │ Accumulate   │ ──▶│   Output     │
+│ 信息获取  │     │   信息处理    │     │  知识沉淀     │    │  内容输出     │
+└──────────┘     └──────────────┘     └──────────────┘    └──────────────┘
+  RSS / Web          PDF / Docs         Knowledge Base      Blog / Social
+  Multi-source       Structure-aware    Long-term Memory    Publish Engine
+  Aggregation        Translation        & Retrieval         & Distribution
+```
+
 <table>
 <tr>
 <td width="50%">
@@ -79,7 +93,9 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=sailor&theme=tokyonight&hide_border=true" />
 </a>
 
-**Personal Information Radar** — RSS multi-source aggregation + LLM-powered analysis workstation. 5-stage preprocessing pipeline, AI article scoring & clustering, knowledge base management with automated insight reports.
+**Sailor | Information Acquisition Engine**
+
+A sailor navigating diverse seas of information. Multi-agent RSS aggregation system with LLM-powered analysis — 5-stage preprocessing pipeline, AI article scoring & clustering, and automated knowledge base insight reports.
 
 `FastAPI` `React` `LLM Agent` `RSS` `SQLite`
 
@@ -90,7 +106,9 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=PDF-to-Markdown-Translator&theme=tokyonight&hide_border=true" />
 </a>
 
-**PDF Bilingual Translation System** — Multi-agent pipeline that translates English PDFs into bilingual Chinese-English Markdown, preserving images, tables, and formulas. Orchestrator + Translation + Review + Terminology + QA agents.
+**Maelstrom | Information Processing Hub**
+
+A maelstrom that devours the flood of documents and distills structured knowledge. Multi-agent PDF translation pipeline — Orchestrator, Translation, Review, Terminology & QA agents collaborating to produce bilingual Markdown with full structure preservation.
 
 `Next.js` `FastAPI` `Multi-Agent` `PaddleOCR` `PyMuPDF`
 
