@@ -77,8 +77,8 @@
 <thead>
 <tr>
 <th align="center">Acquire / 信息获取</th>
-<th align="center">Process / 信息处理</th>
-<th align="center">Accumulate / 知识沉淀</th>
+<th align="center">Process & Accumulate / 信息处理与知识沉淀</th>
+<th align="center">Train / RL 训练基础设施</th>
 <th align="center">Output / 内容输出</th>
 </tr>
 </thead>
@@ -86,14 +86,14 @@
 <tr>
 <td align="center"><strong>Sailor</strong><br/>水手</td>
 <td align="center"><strong>Maelstrom</strong><br/>大漩涡</td>
-<td align="center"><em>Coming Soon</em></td>
+<td align="center"><strong>Forge</strong><br/>锻造厂</td>
 <td align="center"><em>Coming Soon</em></td>
 </tr>
 <tr>
-<td align="center">RSS / Web<br/>Multi-source Aggregation</td>
-<td align="center">PDF / Docs<br/>Structure-aware Translation</td>
-<td align="center">Knowledge Base<br/>Long-term Memory & Retrieval</td>
-<td align="center">Blog / Social<br/>Publish & Distribution</td>
+<td align="center">Multi-Agent RSS Crawling<br/>LLM Scoring & Clustering</td>
+<td align="center">Multi-Agent Doc Processing<br/>Context Engineering & RAG<br/>Long-term Knowledge Store</td>
+<td align="center">Controllable Environments<br/>Training Observability<br/>Single-Node RL Training</td>
+<td align="center">LLM Content Generation<br/>Multi-channel Distribution</td>
 </tr>
 </tbody>
 </table>
@@ -115,13 +115,13 @@ A sailor navigating diverse seas of information. Multi-agent RSS aggregation sys
 </td>
 <td width="50%">
 
-<a href="https://github.com/xianxianxianyu/PDF-to-Markdown-Translator">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=PDF-to-Markdown-Translator&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/xianxianxianyu/maelstrom">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=maelstrom&theme=tokyonight&hide_border=true" />
 </a>
 
-**Maelstrom | Information Processing Hub**
+**Maelstrom | Information Processing & Knowledge Hub**
 
-A maelstrom that devours the flood of documents and distills structured knowledge. Multi-agent PDF translation pipeline — Orchestrator, Translation, Review, Terminology & QA agents collaborating to produce bilingual Markdown with full structure preservation.
+A maelstrom that devours the flood of documents and distills structured knowledge. Multi-agent document processing pipeline with context engineering — translation, review, terminology & QA agents collaborating on bilingual Markdown output, with RAG-powered long-term knowledge accumulation and retrieval.
 
 `Next.js` `FastAPI` `Multi-Agent` `PaddleOCR` `PyMuPDF`
 
