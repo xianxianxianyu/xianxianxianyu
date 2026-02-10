@@ -69,6 +69,37 @@
 
 ---
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/xianxianxianyu/sailor">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=sailor&theme=tokyonight&hide_border=true" />
+</a>
+
+**Personal Information Radar** — RSS multi-source aggregation + LLM-powered analysis workstation. 5-stage preprocessing pipeline, AI article scoring & clustering, knowledge base management with automated insight reports.
+
+`FastAPI` `React` `LLM Agent` `RSS` `SQLite`
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/xianxianxianyu/PDF-to-Markdown-Translator">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=PDF-to-Markdown-Translator&theme=tokyonight&hide_border=true" />
+</a>
+
+**PDF Bilingual Translation System** — Multi-agent pipeline that translates English PDFs into bilingual Chinese-English Markdown, preserving images, tables, and formulas. Orchestrator + Translation + Review + Terminology + QA agents.
+
+`Next.js` `FastAPI` `Multi-Agent` `PaddleOCR` `PyMuPDF`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
