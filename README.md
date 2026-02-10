@@ -3,6 +3,9 @@
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+xianxianxianyu;LLM+Infra+%7C+Multi-Agent+%7C+RL+Post-Training)](https://git.io/typing-svg)
 
+<img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xianxianxianyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />&nbsp;
+<img height="150" src="https://streak-stats.demolab.com/?user=xianxianxianyu&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
@@ -128,15 +131,6 @@ A maelstrom that devours the flood of documents and distills structured knowledg
 </td>
 </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xianxianxianyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=xianxianxianyu&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
