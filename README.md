@@ -43,14 +43,11 @@
 
 ---
 
-## Trophies
+## Activity Graph
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xianxianxianyu&theme=tokyonight&no-frame=true&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- 如果上面的 trophy 无法显示，取消注释下面这行，使用备用镜像 -->
-<!-- [![trophy](https://github-profile-trophy-wine.vercel.app/?username=xianxianxianyu&theme=tokyonight&no-frame=true&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xianxianxianyu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
