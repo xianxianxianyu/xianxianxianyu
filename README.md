@@ -37,7 +37,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xianxianxianyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xianxianxianyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=xianxianxianyu&theme=tokyonight&hide_border=true" />
 </div>
 
