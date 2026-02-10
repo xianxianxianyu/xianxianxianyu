@@ -73,17 +73,17 @@
 
 > Building a **Personal Super-Agent System** — an interconnected fleet of multi-agent projects that covers the full lifecycle of information: Acquire &rarr; Process &rarr; Accumulate &rarr; Output.
 
-```
-  Sailor              Maelstrom             ???                 ???
-  水手                 大漩涡               Coming Soon         Coming Soon
-┌──────────┐     ┌──────────────┐     ┌──────────────┐    ┌──────────────┐
-│ Acquire  │ ──▶ │   Process    │ ──▶ │ Accumulate   │ ──▶│   Output     │
-│ 信息获取  │     │   信息处理    │     │  知识沉淀     │    │  内容输出     │
-└──────────┘     └──────────────┘     └──────────────┘    └──────────────┘
-  RSS / Web          PDF / Docs         Knowledge Base      Blog / Social
-  Multi-source       Structure-aware    Long-term Memory    Publish Engine
-  Aggregation        Translation        & Retrieval         & Distribution
-```
+<div align="center">
+
+![Acquire](https://img.shields.io/badge/Acquire_信息获取-Sailor-0078D4?style=for-the-badge)
+&nbsp;➜&nbsp;
+![Process](https://img.shields.io/badge/Process_信息处理-Maelstrom-7B2D8B?style=for-the-badge)
+&nbsp;➜&nbsp;
+![Accumulate](https://img.shields.io/badge/Accumulate_知识沉淀-Coming_Soon-444?style=for-the-badge)
+&nbsp;➜&nbsp;
+![Output](https://img.shields.io/badge/Output_内容输出-Coming_Soon-444?style=for-the-badge)
+
+</div>
 
 <table>
 <tr>
