@@ -38,7 +38,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xianxianxianyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xianxianxianyu&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=xianxianxianyu&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -47,7 +47,10 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xianxianxianyu&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xianxianxianyu&theme=tokyonight&no-frame=true&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 如果上面的 trophy 无法显示，取消注释下面这行，使用备用镜像 -->
+<!-- [![trophy](https://github-profile-trophy-wine.vercel.app/?username=xianxianxianyu&theme=tokyonight&no-frame=true&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 </div>
 
