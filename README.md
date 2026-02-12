@@ -103,27 +103,23 @@
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/xianxianxianyu/sailor">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=sailor&theme=tokyonight&hide_border=true" />
-</a>
-
-**Sailor | Information Acquisition Engine**
-
+<td width="50%">
+<a href="https://github.com/xianxianxianyu/sailor"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=sailor&theme=tokyonight&hide_border=true" /></a>
+<br/>
+<strong>Sailor | Information Acquisition Engine</strong>
+<br/><br/>
 A sailor navigating diverse seas of information. Multi-agent RSS aggregation system with LLM-powered analysis — 5-stage preprocessing pipeline, AI article scoring & clustering, and automated knowledge base insight reports.
-
-`FastAPI` `React` `LLM Agent` `RSS` `SQLite`
-
+<br/><br/>
+<code>FastAPI</code> <code>React</code> <code>LLM Agent</code> <code>RSS</code> <code>SQLite</code>
 </td>
-<td width="50%"><a href="https://github.com/xianxianxianyu/maelstrom">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=maelstrom&theme=tokyonight&hide_border=true" />
-</a>
-
-**Maelstrom | Information Processing & Knowledge Hub**
-
-A maelstrom that devours the flood of documents and distills structured knowledge. Multi-agent document processing pipeline with context engineering — translation, review, terminology & QA agents collaborating on bilingual Markdown output, with RAG-powered long-term knowledge accumulation and retrieval.
-
-`Next.js` `FastAPI` `Multi-Agent` `PaddleOCR` `PyMuPDF`
-
+<td width="50%">
+<a href="https://github.com/xianxianxianyu/maelstrom"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=maelstrom&theme=tokyonight&hide_border=true" /></a>
+<br/>
+<strong>Maelstrom | Information Processing &amp; Knowledge Hub</strong>
+<br/><br/>
+A maelstrom that devours the flood of documents and distills structured knowledge. Multi-agent document processing pipeline with context engineering — translation, review, terminology &amp; QA agents collaborating on bilingual Markdown output, with RAG-powered long-term knowledge accumulation and retrieval.
+<br/><br/>
+<code>Next.js</code> <code>FastAPI</code> <code>Multi-Agent</code> <code>PaddleOCR</code> <code>PyMuPDF</code>
 </td>
 </tr>
 </table>
