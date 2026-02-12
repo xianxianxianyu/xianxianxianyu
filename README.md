@@ -103,7 +103,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/xianxianxianyu/sailor"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=sailor&theme=tokyonight&hide_border=true" /></a>
 <br/>
 <strong>Sailor | Information Acquisition Engine</strong>
@@ -112,7 +112,7 @@ A sailor navigating diverse seas of information. Multi-agent RSS aggregation sys
 <br/><br/>
 <code>FastAPI</code> <code>React</code> <code>LLM Agent</code> <code>RSS</code> <code>SQLite</code>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/xianxianxianyu/maelstrom"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=maelstrom&theme=tokyonight&hide_border=true" /></a>
 <br/>
 <strong>Maelstrom | Information Processing &amp; Knowledge Hub</strong>
