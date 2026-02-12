@@ -31,7 +31,7 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-`vLLM` `Custom Operators` `Kernel Optimization` `Serving Systems`
+`vLLM` `Kernel Optimization` `Serving Systems`
 
 </td>
 <td align="center" width="50%">
@@ -41,7 +41,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 
-`Context Engineering` `Tool Use` `Agent Orchestration` `Memory Management`
+`Context Engineering` `Agent Orchestration` `Memory Management`
 
 </td>
 </tr>
@@ -64,7 +64,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-`CI/CD` `Monitoring` `Distributed Systems` `Performance Profiling`
+`Monitoring` `Distributed Systems` `Performance Profiling`
 
 </td>
 </tr>
@@ -103,9 +103,7 @@
 
 <table>
 <tr>
-<td width="50%">
-
-<a href="https://github.com/xianxianxianyu/sailor">
+<td width="50%"><a href="https://github.com/xianxianxianyu/sailor">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=sailor&theme=tokyonight&hide_border=true" />
 </a>
 
@@ -116,9 +114,7 @@ A sailor navigating diverse seas of information. Multi-agent RSS aggregation sys
 `FastAPI` `React` `LLM Agent` `RSS` `SQLite`
 
 </td>
-<td width="50%">
-
-<a href="https://github.com/xianxianxianyu/maelstrom">
+<td width="50%"><a href="https://github.com/xianxianxianyu/maelstrom">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xianxianxianyu&repo=maelstrom&theme=tokyonight&hide_border=true" />
 </a>
 
